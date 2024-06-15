@@ -32,3 +32,9 @@ Prerequisites
 *IMPORTANT*
 For Database connectivity, install the mySQL workbench by following link : https://www.youtube.com/watch?v=dofP2u6UX7w
 After installation open it, and import mySql file connect it and enjoy :)
+
+![Screenshot 2024-06-13 154214](https://github.com/izhan77/IZRAZ-Bank-Management-System/assets/153646985/0357763a-30d5-48cf-8bff-174ca4b7c6d5)
+![Screenshot 2024-06-13 154234](https://github.com/izhan77/IZRAZ-Bank-Management-System/assets/153646985/1a1205fd-9998-498d-9555-2e150a868b92)
+![Screenshot 2024-06-13 154302](https://github.com/izhan77/IZRAZ-Bank-Management-System/assets/153646985/ad2c31a1-4cf7-4cd9-976f-46fafcb7acf5)
+![Screenshot 2024-06-13 154411](https://github.com/izhan77/IZRAZ-Bank-Management-System/assets/153646985/9fe75670-2715-42c7-b90c-e77b70b6dc15)
+
